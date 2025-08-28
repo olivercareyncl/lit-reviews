@@ -1,0 +1,24 @@
+evidence_map_shift:
+  - community
+  - digital
+  - prevention
+
+cost_outcome_keywords:
+  - total cost
+  - cost per patient
+  - budget reduction
+  - cash-releasing
+  - cashable
+  - net savings
+  - cost avoidance
+  - cost of care
+  - expenditure
+
+comparison_terms:
+  - business as usual
+  - standard care
+  - usual care
+  - do nothing
+  - no intervention
+  - pre-post baseline
+  - control group
